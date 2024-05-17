@@ -1,0 +1,18 @@
+A-Data
+Apacer
+Dahua
+Dell
+Fujitsu
+Hitachi
+HP
+IBM
+LaCie
+Lenovo
+Netac
+Seagate
+Silicon Power
+Synology
+Toshiba
+Transcend
+Verbatim
+WD

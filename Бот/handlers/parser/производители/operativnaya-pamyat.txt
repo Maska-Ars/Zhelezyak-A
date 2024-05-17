@@ -1,0 +1,40 @@
+A-Data
+Acer
+AFOX
+AMD
+Apacer
+Cisco
+Corsair
+Crucial
+Dell
+G.Skill
+Geil
+Gigabyte
+GOODRAM
+Hikvision
+HP
+Hynix
+HyperX
+IBM
+KingSpec
+Kingston
+Kingston Fury
+Lenovo
+Lexar
+Micron
+Netac
+OCPC
+OCZ
+OWC
+Patriot Memory
+PNY
+QNAP
+Samsung
+Silicon Power
+Supermicro
+Synology
+Team Group
+Thermaltake
+Transcend
+V7
+VisionTek
